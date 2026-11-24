@@ -18,7 +18,7 @@
 
 ## About
 
-I hold a **DUT in Data Engineering** (2024–2026, *Mention Bien*, 14.57/20) and I am currently pursuing a **Bachelor in Data Science** (2026–2027). My work sits at the intersection of data engineering, machine learning and language technologies.
+I hold a **DUT in Data Engineering**  and I am currently pursuing a **Bachelor in Data Science** (2026–2027). My work sits at the intersection of data engineering, machine learning and language technologies.
 
 My main project is a **multilingual Retrieval-Augmented Generation (RAG) assistant** for IT support questions in French, English and Arabic, developed during my internship at OCP Group and evaluated with quantitative metrics. Alongside it, I have built an IoT health-monitoring platform (as part of a team) and a Flask web application for internal process management.
 
